@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> A Gamified Quiz, Welcome.</title>
+<link rel="stylesheet" type="text/css" href="frontpagesheet.css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+</head>
+	<body>
+	<div class= "mainbox">
+		<h1> A Gamification Quiz</h1><br>
+		<p> Skapad av Michel Nickbon och Ali Nazar<br></p>
+		<br>
+		<p> Denna prototyp har utvecklats av två studenter på Stockholms Universitet och används som prototyp till examensarbetet.
+		Syftet med prototypen är att under "Gamification" undersöka vilka spelmekanismer som elever tycker är mest motiverande och engagerade.  </p>
+		<br>
+		<p> för att börja,skriv in ditt namn i namn fältet och välj en av det fyra instanserna nedan och tryck sedan på "starta quiz" knappen</p><br>
+		<br>
+        <form action="redirecter.php" method="post" enctype="multipart/form-data">
+        <input type="text" name="firstname" placeholder="Namn / Alias" required><br>
+		<br>
+		<input type="radio" name="btn" value="points" /> Instans 1 - Points
+		<br><input type="radio" name="btn" value="leader"/> Instans 2 - Leaderboard
+		<br><input type="radio" name="btn" value="badges"/> Instans 3 - Badges / Achievements
+		<br><input type="radio" name="btn" value="levels"/> Instans 4 - Levels
+		<br><br>
+        
+        <br><br>
+		<input type="submit" value="Starta Quiz">
+		</form>
+	</div>
+</body>
+</html>

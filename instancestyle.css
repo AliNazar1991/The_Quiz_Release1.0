@@ -1,0 +1,66 @@
+#includedContent{
+font-size:24px;
+width:600px;
+height: 200px;
+padding: 20px;
+margin: auto;
+background-color:#1F1F1F;
+border: 3px solid white;
+-moz-box-shadow: 0 0 20px #fff;
+-webkit-box-shadow: 0 0 20px #fff;
+box-shadow: 0px 0px 20px #fff;
+}
+
+#header{
+font-family: Papyrus, fantasy;
+font-size:64px;
+color:#98bf21;
+text-align:center;
+margin-top: 15px;
+}
+
+#playerstats {
+  font-family: Papyrus, fantasy;
+  font-size: 26px;
+  width: 400px;
+  margin-top: 20px;
+  height: auto;
+  padding: 25px;
+  background-color: #1F1F1F;
+  border-right: 3px solid white;
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  /* border: 5px solid white; */
+  -moz-box-shadow: 0 0 20px #fff;
+  -webkit-box-shadow: 0 0 20px #fff;
+  box-shadow: 0px 0px 20px #fff;
+}
+
+h4 {
+  margin-top: 5px;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+a{
+ text-decoration: none;   
+}
+
+body{
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+color:white;
+background-color:#0B0B0B;
+background-image: url("bg.png");
+margin:0px;
+ }
+ 
+p{
+font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;
+font-size: 14px;
+color: #EEE;
+margin: 0px;
+}
+
+input{   
+    margin-right: 8px;
+}

@@ -1,0 +1,100 @@
+#playerstatsname {
+	text-align: left;
+}
+#MyBronzeBadge{
+	position: absolute;
+	top:300px;
+	width:150px; /*width of your image*/
+   height:150px; /*height of your image*/
+   background-image:url('bronze.png');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+  display:none;
+}
+#MySilverBadge{
+	position: absolute;
+	top:400px;
+	width:150px; /*width of your image*/
+   height:150px; /*height of your image*/
+   background-image:url('silver.png');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+	display:none;
+}
+#MyGoldBadge{
+	position: absolute;
+	top:500px;
+	width:150px; /*width of your image*/
+   height:150px; /*height of your image*/
+   background-image:url('guld.png');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+  display:none;
+}
+#MyPlatinumBadge{
+	position: absolute;
+	top:600px;
+	width:150px; /*width of your image*/
+   height:150px; /*height of your image*/
+   background-image:url('platinum.png');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+  display:none;
+}
+#playername{
+	font:bolder;
+	color:#98bf21;
+	
+}
+#playerstatslevel {
+	text-align: left;
+}
+#playerstatsbadges {
+	text-align: left;
+}
+#playerstatsxp {
+	text-align: left;
+}
+#playerstatsleaderboard {
+	text-align: left;
+}
+#achievement
+{
+background:#000000;
+color:#EEEEEE;
+border:5px solid;
+border-color:#98bf21;
+box-shadow: 0px 0px 10px #98bf21;
+-moz-box-shadow: 0px 0px 10px #98bf21;
+-webkit-box-shadow: 0px 0px 10px #98bf21;
+display:none;
+}
+#correct
+{
+background:#000000;
+color:#EEEEEE;
+border-style:solid;
+border-color:#98bf21;
+display:none;
+}
+#wrong
+{
+background:#000000;
+color:#EEEEEE;
+border-style:solid;
+border-color:#F42323;
+padding-top: 5px;
+padding-bottom: 12px;
+display:none;
+}
+#allright
+{
+background:#000000;
+color:#EEEEEE;
+border:5px solid;
+border-color:#98bf21;
+box-shadow: 0px 0px 10px #98bf21;
+-moz-box-shadow: 0px 0px 10px #98bf21;
+-webkit-box-shadow: 0px 0px 10px #98bf21;
+display:none;
+}

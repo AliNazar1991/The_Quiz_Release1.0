@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><CATALOG>
+    <QUIZ1>
+        <QUESTION>Tele2 och Bredbandsbolaget är exempel på?</QUESTION>
+        <RIGHTANSWER>Internet Service Providers (ISPs)</RIGHTANSWER>
+        <WRONGANSWER1>Internet Access Points (IAPs)</WRONGANSWER1>
+        <WRONGANSWER2>Webb portaler</WRONGANSWER2>
+    </QUIZ1>
+    <QUIZ2>
+        <QUESTION>Vad är "cloud computing", "molntjänster" i Internetvärlden?</QUESTION>
+        <RIGHTANSWER>Ett samlingsbegrepp för olika kategorier av tjänster som tillhandahåller skalbar datorkraft över internet.</RIGHTANSWER>
+        <WRONGANSWER1>Otydliga tjänster på Internet.</WRONGANSWER1>
+        <WRONGANSWER2>Olagliga tjänster på Internet.</WRONGANSWER2>
+    </QUIZ2>
+    <QUIZ3>
+        <QUESTION>Vad brukar man kalla att flytta data från din dator t ex till en server på nätet?</QUESTION>
+        <RIGHTANSWER>Uppladdning</RIGHTANSWER>
+        <WRONGANSWER1>Internet Relay</WRONGANSWER1>
+        <WRONGANSWER2>Nedladdning</WRONGANSWER2>
+    </QUIZ3>
+    <QUIZ4>
+        <QUESTION>Vilken medium för Internet-uppkoppling erbjuder högst bandbredd?</QUESTION>
+        <RIGHTANSWER>Fiber</RIGHTANSWER>
+        <WRONGANSWER1>Satellit</WRONGANSWER1>
+        <WRONGANSWER2>DSL</WRONGANSWER2>
+    </QUIZ4>
+    <QUIZ5>
+        <QUESTION>Vad är hypertext?</QUESTION>
+        <RIGHTANSWER>Hypertext är ett system där objekt (text, bilder etc) kan länkas till varandra.</RIGHTANSWER>
+        <WRONGANSWER1>Hypertext är text som går att läsa extremt snabbt.</WRONGANSWER1>
+        <WRONGANSWER2>Hypertext är text som sammanfattar annan text på ett bra sätt.</WRONGANSWER2>
+    </QUIZ5>
+    <QUIZ6>
+        <QUESTION>Vad är den viktigaste skillnaden mellan Instant Messaging (IM) och e-post?</QUESTION>
+        <RIGHTANSWER>IM -meddelande utväxlas i realtid (nästan) till skillnad mot epost.</RIGHTANSWER>
+        <WRONGANSWER1>Det går inte att använda förkortningar som LOL, BRB och TTYL i e-post.</WRONGANSWER1>
+        <WRONGANSWER2>IM är enklast att använda om du vill skriva långa förklaringar.</WRONGANSWER2>
+    </QUIZ6>
+    <QUIZ7>
+        <QUESTION>Vilken av föjande applikationer sköter elektroniska postlistor och skickar automatiskt meddelanden till prenumeranter?</QUESTION>
+        <RIGHTANSWER>Listserver</RIGHTANSWER>
+        <WRONGANSWER1>Instant Messaging (IM)</WRONGANSWER1>
+        <WRONGANSWER2>Internet Relay Chat (IRC)</WRONGANSWER2>
+    </QUIZ7>
+    <QUIZ8>
+        <QUESTION>Vad är domännamn i den fiktiva URLen http://www.everetts.com/welcome/screen.htm</QUESTION>
+        <RIGHTANSWER>www.everetts.com</RIGHTANSWER>
+        <WRONGANSWER1>http</WRONGANSWER1>
+        <WRONGANSWER2>welcome</WRONGANSWER2>
+    </QUIZ8>
+    <QUIZ9>
+        <QUESTION>Vad kallas den sträng av tecken som identifierar typ av, och adress till, en Internetresurs ?</QUESTION>
+        <RIGHTANSWER>URL</RIGHTANSWER>
+        <WRONGANSWER1>WWW</WRONGANSWER1>
+        <WRONGANSWER2>IPA</WRONGANSWER2>
+    </QUIZ9>
+    <QUIZ10>
+        <QUESTION>Vad är en vanliga term för att beskriva att en webblänk pekar på ett dokument som inte längre finns kvar.</QUESTION>
+        <RIGHTANSWER>Bruten länk</RIGHTANSWER>
+        <WRONGANSWER1>Ickefunktionell länk</WRONGANSWER1>
+        <WRONGANSWER2>Omodern länk</WRONGANSWER2>
+    </QUIZ10>
+    <QUIZ11>
+        <QUESTION>Vad brukar markören på skärmen få för utseende när den dras över en hyperlänk på en webbsida?</QUESTION>
+        <RIGHTANSWER>Hand</RIGHTANSWER>
+        <WRONGANSWER1>Pil</WRONGANSWER1>
+        <WRONGANSWER2>Timglas</WRONGANSWER2>
+    </QUIZ11>
+    <QUIZ12>
+        <QUESTION>Vad kallar man ibland program som t. ex. gör att du kan lyssna på musik eller titta på video i din webbläsare?</QUESTION>
+        <RIGHTANSWER>Insticksprogram (Plug-ins)</RIGHTANSWER>
+        <WRONGANSWER1>Assistenter</WRONGANSWER1>
+        <WRONGANSWER2>Hyperlänkar</WRONGANSWER2>
+    </QUIZ12>
+    <QUIZ13>
+        <QUESTION>Vad är en podcast?</QUESTION>
+        <RIGHTANSWER>Podcast är ett sätt att (t.ex. periodiskt) distribuera ljudfiler (och även videofiler, vilket ibland kalla vodcasts) med hjälp av RSS.</RIGHTANSWER>
+        <WRONGANSWER1>Ett sätt att hantera stor textmassor.</WRONGANSWER1>
+        <WRONGANSWER2>En metod att spela in tangentbordsnedtryckningar</WRONGANSWER2>
+    </QUIZ13>
+    <QUIZ14>
+        <QUESTION>Vad är RSS i Internnetvärlden?</QUESTION>
+        <RIGHTANSWER>Med RSS kan du koppla upp ett flöde från en webbsida, t ex en blog, som gör att du varje gång denna uppdateras, du får en rubrik/del av innehållet till en RRS-läsare och slipper "surfa runt" och kolla om det kommit något nytt....</RIGHTANSWER>
+        <WRONGANSWER1>RSS är en standard för bildhantering på webben.</WRONGANSWER1>
+        <WRONGANSWER2>RSS är en standard för ljudhantering på webben.</WRONGANSWER2>
+    </QUIZ14>
+    <QUIZ15>
+        <QUESTION>Vilken av följande är _inte_ ett exempel på en sökmotor på webben?</QUESTION>
+        <RIGHTANSWER>Listserv</RIGHTANSWER>
+        <WRONGANSWER1>Bing</WRONGANSWER1>
+        <WRONGANSWER2>Google</WRONGANSWER2>
+    </QUIZ15>
+    <QUIZ16>
+        <QUESTION>Vad innebär Spam i Internetvärlden</QUESTION>
+        <RIGHTANSWER>Oönskad e-post. (ofta massutskick)</RIGHTANSWER>
+        <WRONGANSWER1>Försäljningserbjudnaden.</WRONGANSWER1>
+        <WRONGANSWER2>Inbjudningar att vara med i olika grupper.</WRONGANSWER2>
+    </QUIZ16>
+    <QUIZ17>
+        <QUESTION>Vad kallas en webbläsares förmåga att spara tidigare besökta sidor?</QUESTION>
+        <RIGHTANSWER>Caching</RIGHTANSWER>
+        <WRONGANSWER1>Fras sökning</WRONGANSWER1>
+        <WRONGANSWER2>Uppladdning</WRONGANSWER2>
+    </QUIZ17>
+    <QUIZ18>
+        <QUESTION>Vilket av följande är namnet på en toppdomän?</QUESTION>
+        <RIGHTANSWER>edu</RIGHTANSWER>
+        <WRONGANSWER1>ftp</WRONGANSWER1>
+        <WRONGANSWER2>www</WRONGANSWER2>
+    </QUIZ18>
+    <QUIZ19>
+        <QUESTION>URL är en förkortning som står för</QUESTION>
+        <RIGHTANSWER>Uniform Resource Locator</RIGHTANSWER>
+        <WRONGANSWER1>Unique Resource Label</WRONGANSWER1>
+        <WRONGANSWER2>Unified Record Label</WRONGANSWER2>
+    </QUIZ19>
+    <QUIZ20>
+        <QUESTION>Vad är en Wiki i Internetvärlden.</QUESTION>
+        <RIGHTANSWER>En wiki är en webbplats där alla (med behörighet) enkelt kan gå in och lägga till och ta bort information. Systemet har log som spårar att förändringar och som gör att det är lätta att "backa" och gå tillbaka til en tidigare version.</RIGHTANSWER>
+        <WRONGANSWER1>En wiki är system för att distribuera ljudfiler.</WRONGANSWER1>
+        <WRONGANSWER2>En wiki är system för att distribuera bildfiler.</WRONGANSWER2>
+    </QUIZ20>
+</CATALOG>

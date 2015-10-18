@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> A Gamified Quiz, Welcome.</title>
+<link rel="stylesheet" type="text/css" href="frontpagesheet.css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+</head>
+	<body>
+	<div class= "mainbox">
+		<h1> A Gamification Quiz</h1><br>
+		<p> Skapad av Michel Nickbon och Ali Nazar<br></p>
+		<br>
+		<p> Denna prototyp har utvecklats av två studenter på Stockholms Universitet och används som prototyp till examensarbetet.
+		Syftet med prototypen är att under "Gamification" undersöka vilka spelmekanismer som elever tycker är mest motiverande och engagerade.  </p>
+		<br>
+		<p> Ingen <u>personlig information</u> förutom ditt egna namn kommer att sparas, det gör också bra att använda sig av ett alias om man inte vill ange sitt namn.</p><br>
+		<p> <b>För att börja:</b><br> 1) Om du vill köra Points instansen skriver du i frågemapp fältet: points.<br>
+			2)Om du vill köra leaderboard instansen skriver du i frågemapp fältet: leaderboard.<br>
+			3)Om du vill köra badges/achievements instansen skriver du i frågemapp fältet: badges<br>
+			4)Om du vill köra levels instansen skriver du i frågemapp fältet: levels</p><br>
+		</b><br> Skriv sedan ditt namn i namn fältet,välj den korrekta instancen och tryck sedan på Starta Quiz knappen för att
+			påbörja quizzen.</p><br>
+		<form action="redirecter.php" method="post">
+		<input type="text" name="foldername" id="foldername" placeholder="Frågemapp" required><br><br>	
+		<input type="text" name="firstname" placeholder="Namn / Alias" required><br>
+		<br>
+		<input type="radio" name="btn" value="points" /> Instans 1 - Points
+		<br>
+            <input type="radio" name="btn" value="leader"/> Instans 2 - Leaderboard
+		<br>
+            <input type="radio" name="btn" value="badges"/> Instans 3 - Badges / Achievements
+		<br>
+            <input type="radio" name="btn" value="levels"/> Instans 4 - Levels
+		<br><br><br>
+		<input type="submit" value="Starta Quiz">
+		</form>
+	</div>
+</body>
+</html>
